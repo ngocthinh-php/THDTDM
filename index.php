@@ -5,3 +5,4 @@
 <p>Email: <input type="text" name="mail"></p>
 <input type ="submit" name="submit">
 </form>
+</html>
